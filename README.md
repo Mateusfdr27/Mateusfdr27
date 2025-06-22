@@ -7,4 +7,5 @@
 Here are some ideas to get you started:
 
 - 🌱 I’m currently learning programação na Alura
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/threedsmax/threedsmax-original.svg" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/threedsmax/threedsmax-original.svg" width="40" height="40" />
